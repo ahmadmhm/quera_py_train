@@ -1,9 +1,9 @@
 x = input()
 x = float(x)
-if x >= 100:
+if x > 100:
     print('Steam')
     pass
-elif x <= 0:
+elif x < 0:
     print('Ice')
     pass
 else:
