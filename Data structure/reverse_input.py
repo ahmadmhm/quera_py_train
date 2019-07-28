@@ -6,7 +6,7 @@ while True:
         li.append(inp)
     else:
         li.reverse()
-        for i in range(0,len(li)):
-            print(li[i])
+        for item in li:
+            print(item)
         break
     pass
