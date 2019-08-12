@@ -20,3 +20,18 @@ listB = ['a', 'b', 'c', 'd']
 listC = ['I', 'II', 'III', 'IV']
 for a, b, c in zip(listA, listB, listC):
     print("{0}th alphabet or {1} in greece is {2}".format(a, c, b))
+sq = [x*x for x in range(10)]
+print(sq)
+sq1 = [str(x)+str(y) for x in [1, 2, 3] for y in ['A', 'B']]
+print(sq1)
+sq2 = [(x, y) for x in [1, 2, 3] for y in [1, 2, 3] if x != y]
+print(sq2)
+data = [10, -4, 53, 122, 0]
+d1 = [x for x in data if x > 0]
+d2 = [x*x for x in data]
+matrix = [[j+i*3+1 for j in range(3)] for i in range(3)]
+a = ['ali', 'rafte', 'key', 'barmigarde?']
+del a[0]
+print(a)
+del a[0:2]
+print(a)
