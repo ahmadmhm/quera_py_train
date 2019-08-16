@@ -35,3 +35,14 @@ del a[0]
 print(a)
 del a[0:2]
 print(a)
+
+def f(a, *args):
+    return args
+    pass
+print(f(1, 2, 3))
+
+def f(*args, **kwargs):
+    print(args)
+    print(kwargs)
+    pass
+print(f(1, a=2))
