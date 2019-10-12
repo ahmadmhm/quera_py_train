@@ -1,5 +1,5 @@
-x , y = map(float, input().split())
 
+x , y = map(float, input().split())
 #Cr(x,y)
 x = int(x)
 y = int(y)
