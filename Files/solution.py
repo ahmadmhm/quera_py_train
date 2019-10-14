@@ -7,7 +7,7 @@ def solve(address):
         line = f.readline()
         if line != '\n' and line != '':
             if not re.findall("([\s]+\n)", line):
-                if not re.findall("(#[.]*)", line):
+                if line.strip() == '#' or not re.findall("(#[.]*)", line):
                     some += 1
                     # print(re.findall("(#[a-zA-Z0-9])", line.strip()))
                 elif line.strip().find('#') > 0:
@@ -21,4 +21,4 @@ def solve(address):
     return some
     pass
 # print(solve("../functions.py"))
-print(solve("f.txt"))
+# print(solve("f.txt"))
