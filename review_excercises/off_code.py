@@ -41,4 +41,16 @@ for code in lst:
         print('Yes')
     else:
         print('No')
+------------------------------
+n, t = input().split()
+code = {i for i in t}
+n = int(n)
+for i in range(n):
+    s = input()
+    new = {i for i in s}
+    if new == code:
+        print("Yes")
+    else:
+        print("No")
+        
 """
