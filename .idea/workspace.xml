@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f078185c-6079-4e63-814e-a56fb5efffe8" name="Default Changelist" comment="تمرین پیمایش شونده معکوس">
-      <change afterPath="$PROJECT_DIR$/OOP/company.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/mine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/sample_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/school.py" afterDir="false" />
+    <list default="true" id="f078185c-6079-4e63-814e-a56fb5efffe8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP/engineer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/teacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/worker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/WorkPlace.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/work_place.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Project.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +32,7 @@
     <SUITE FILE_PATH="coverage/quera$loudspeaker.coverage" NAME="loudspeaker Coverage Results" MODIFIED="1574533267374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
     <SUITE FILE_PATH="coverage/quera$WorkPlace.coverage" NAME="WorkPlace Coverage Results" MODIFIED="1583356054581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
     <SUITE FILE_PATH="coverage/quera$best_life_congress.coverage" NAME="best_life_congress Coverage Results" MODIFIED="1574527356308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
+    <SUITE FILE_PATH="coverage/quera$introspection.coverage" NAME="introspection Coverage Results" MODIFIED="1583496205335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
     <SUITE FILE_PATH="coverage/quera$edit_text.coverage" NAME="edit_text Coverage Results" MODIFIED="1574530258638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
     <SUITE FILE_PATH="coverage/quera$exceptions.coverage" NAME="exceptions Coverage Results" MODIFIED="1583335937656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
     <SUITE FILE_PATH="coverage/quera$main.coverage" NAME="main Coverage Results" MODIFIED="1583333293319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
@@ -40,52 +41,43 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP/sample_test.py">
+        <entry file="file://$PROJECT_DIR$/OOP/person.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="584">
+              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOP/worker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#0#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP/work_place.py">
+        <entry file="file://$PROJECT_DIR$/OOP/engineer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="60">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OOP/mine.py">
+        <entry file="file://$PROJECT_DIR$/OOP/teacher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP/company.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OOP/school.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -129,24 +121,31 @@
         <option value="$PROJECT_DIR$/OOP/nameSpace.py" />
         <option value="$PROJECT_DIR$/OOP/iterators.py" />
         <option value="$PROJECT_DIR$/OOP/reverser.py" />
-        <option value="$PROJECT_DIR$/OOP/Project.py" />
         <option value="$PROJECT_DIR$/OOP/encapsoile/test.py" />
         <option value="$PROJECT_DIR$/OOP/encapsoile/main.py" />
         <option value="$PROJECT_DIR$/OOP/Inheritances.py" />
         <option value="$PROJECT_DIR$/OOP/exceptions.py" />
         <option value="$PROJECT_DIR$/OOP/WorkPlace.py" />
         <option value="$PROJECT_DIR$/OOP/work_place.py" />
-        <option value="$PROJECT_DIR$/OOP/mine.py" />
-        <option value="$PROJECT_DIR$/OOP/company.py" />
         <option value="$PROJECT_DIR$/OOP/school.py" />
+        <option value="$PROJECT_DIR$/OOP/company.py" />
+        <option value="$PROJECT_DIR$/OOP/mine.py" />
+        <option value="$PROJECT_DIR$/OOP/Project.py" />
+        <option value="$PROJECT_DIR$/OOP/person.py" />
+        <option value="$PROJECT_DIR$/OOP/worker.py" />
+        <option value="$PROJECT_DIR$/OOP/engineer.py" />
+        <option value="$PROJECT_DIR$/OOP/teacher.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="483" />
-    <option name="y" value="93" />
-    <option name="width" value="1161" />
-    <option name="height" value="650" />
+    <option name="x" value="67" />
+    <option name="y" value="50" />
+    <option name="width" value="1151" />
+    <option name="height" value="653" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -160,11 +159,6 @@
             <path>
               <item name="quera" type="b2602c69:ProjectViewProjectNode" />
               <item name="quera" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quera" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quera" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,29 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in sample_test.py">
-    <configuration name="Inheritances" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="quera" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Inheritances.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.introspection">
     <configuration name="WorkPlace" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="quera" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,6 +255,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="introspection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="quera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced_OOP/introspection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mine" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="quera" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -322,11 +316,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.introspection" />
         <item itemvalue="Python tests.Unittests in sample_test.py" />
         <item itemvalue="Python.mine" />
         <item itemvalue="Python.WorkPlace" />
         <item itemvalue="Python.exceptions" />
-        <item itemvalue="Python.Inheritances" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +351,8 @@
       <workItem from="1582085567071" duration="668000" />
       <workItem from="1583330736381" duration="7324000" />
       <workItem from="1583357855795" duration="420000" />
-      <workItem from="1583423701884" duration="4483000" />
+      <workItem from="1583423701884" duration="4748000" />
+      <workItem from="1583492392867" duration="3412000" />
     </task>
     <task id="LOCAL-00001" summary="تمرین ۱ - خر در چمن فراوونه">
       <created>1574443860088</created>
@@ -429,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583357718014</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="تمرین معدن-مدرسه-شرکت">
+      <created>1583437158906</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1583437158906</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -438,7 +440,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73567000" />
+    <option name="totallyTimeSpent" value="77244000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -451,9 +453,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1299" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2680162" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27449393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -530,7 +531,8 @@
     <MESSAGE value="کلاس Person" />
     <MESSAGE value="تمرین پیمایش شونده معکوس" />
     <MESSAGE value="تمرین workPlace" />
-    <option name="LAST_COMMIT_MESSAGE" value="تمرین workPlace" />
+    <MESSAGE value="تمرین معدن-مدرسه-شرکت" />
+    <option name="LAST_COMMIT_MESSAGE" value="تمرین معدن-مدرسه-شرکت" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/functions.py">
@@ -769,10 +771,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/company.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/mine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/OOP/Project.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="39" column="8" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="39" selection-end-column="8" />
+        <state relative-caret-position="464">
+          <caret line="39" column="8" lean-forward="true" selection-end-line="39" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -788,32 +804,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP/work_place.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP/school.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="165">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="42" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/company.py">
+    <entry file="file://$PROJECT_DIR$/OOP/person.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="584">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/mine.py">
+    <entry file="file://$PROJECT_DIR$/OOP/worker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="165">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/engineer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/teacher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
         </state>
       </provider>
     </entry>
