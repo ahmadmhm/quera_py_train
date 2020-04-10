@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f078185c-6079-4e63-814e-a56fb5efffe8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/threadings/events.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadings/events1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadings/first_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadings/intro_thread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadings/like_java.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadings/locking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/threadings/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threadings/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/threadings/solution.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,59 +47,7 @@
     <SUITE FILE_PATH="coverage/quera$farzad_film.coverage" NAME="farzad_film Coverage Results" MODIFIED="1577344628466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Files" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/threadings/intro_thread.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="87" selection-start-line="87" selection-end-line="87" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/threadings/events.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/threadings/events1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/threadings/locking.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/threadings/like_java.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,9 +59,18 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>wa</find>
+      <find>t</find>
+      <find>1</find>
+      <find>g</find>
+      <find>t2</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>3</replace>
+      <replace>4</replace>
+      <replace>g</replace>
+      <replace>2</replace>
+      <replace>h</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/OOP</dir>
@@ -167,11 +118,11 @@
         <option value="$PROJECT_DIR$/advanced_OOP/decorator.py" />
         <option value="$PROJECT_DIR$/threadings/intro_thread.py" />
         <option value="$PROJECT_DIR$/threadings/first_task.py" />
-        <option value="$PROJECT_DIR$/threadings/solution.py" />
         <option value="$PROJECT_DIR$/threadings/events.py" />
         <option value="$PROJECT_DIR$/threadings/events1.py" />
         <option value="$PROJECT_DIR$/threadings/locking.py" />
         <option value="$PROJECT_DIR$/threadings/like_java.py" />
+        <option value="$PROJECT_DIR$/threadings/solution.py" />
       </list>
     </option>
   </component>
@@ -189,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,20 +147,11 @@
               <item name="quera" type="b2602c69:ProjectViewProjectNode" />
               <item name="quera" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="quera" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quera" type="462c0819:PsiDirectoryNode" />
-              <item name="advanced_OOP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="quera" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quera" type="462c0819:PsiDirectoryNode" />
-              <item name="threadings" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -416,7 +357,9 @@
       <workItem from="1584366674055" duration="11291000" />
       <workItem from="1584450624543" duration="4592000" />
       <workItem from="1585055330440" duration="1661000" />
-      <workItem from="1585456246726" duration="9282000" />
+      <workItem from="1585456246726" duration="9506000" />
+      <workItem from="1585734716478" duration="927000" />
+      <workItem from="1586526332270" duration="2250000" />
     </task>
     <task id="LOCAL-00001" summary="تمرین ۱ - خر در چمن فراوونه">
       <created>1574443860088</created>
@@ -523,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584458059824</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ترد ها - مث جاوا">
+      <created>1585474138470</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1585474138470</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -532,7 +482,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117818000" />
+    <option name="totallyTimeSpent" value="121219000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -545,14 +495,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="27" width="1311" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21972735" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23095429" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31118882" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31118882" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39685315" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -561,7 +510,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32867134" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3270548" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32692307" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32867134" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -629,7 +578,8 @@
     <MESSAGE value="درسنامه های مباحث مکمل شی گرایی" />
     <MESSAGE value="تمرین پروکسی" />
     <MESSAGE value="تمرین سنجایش" />
-    <option name="LAST_COMMIT_MESSAGE" value="تمرین سنجایش" />
+    <MESSAGE value="ترد ها - مث جاوا" />
+    <option name="LAST_COMMIT_MESSAGE" value="ترد ها - مث جاوا" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/review_excercises/bagher_cold.py">
@@ -912,26 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/threadings/events.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/threadings/events1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/threadings/first_task.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -939,23 +869,6 @@
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/threadings/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/threadings/intro_thread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="87" selection-start-line="87" selection-end-line="87" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -980,6 +893,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/threadings/like_java.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/threadings/locking.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -987,10 +907,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/threadings/like_java.py">
+    <entry file="file://$PROJECT_DIR$/threadings/events1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="645">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threadings/events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threadings/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threadings/intro_thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="87" selection-start-line="87" selection-end-line="87" selection-end-column="29" />
         </state>
       </provider>
     </entry>
